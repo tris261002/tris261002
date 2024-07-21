@@ -13,8 +13,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=tris261002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-const tweetButton=document.getElementById("tweet");
-tweetButton.href="https://twitter.com/intent/tweet?text="+quote+" ~ "+auth;
+![](const tweetButton=document.getElementById("tweet");
+tweetButton.href="https://twitter.com/intent/tweet?text="+quote+" ~ "+auth)
 
 
 ### 🔝 Top Contributed Repo
