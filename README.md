@@ -13,7 +13,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=tris261002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+const tweetButton=document.getElementById("tweet");
+tweetButton.href="https://twitter.com/intent/tweet?text="+quote+" ~ "+auth;
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tris261002&limit=5&theme=radical&combine_all_yearly_contributions=true)
